@@ -29,3 +29,4 @@ class ParentJSONSaver(ABC):
 
 class HeadHunterAPI(ParentApi):
     """Класс для работы с API HeadHunter"""
+
